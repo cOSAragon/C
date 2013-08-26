@@ -1,4 +1,4 @@
-C
+C/C++
 =
 
-Programas en C
+Programas hechos en C/C++
